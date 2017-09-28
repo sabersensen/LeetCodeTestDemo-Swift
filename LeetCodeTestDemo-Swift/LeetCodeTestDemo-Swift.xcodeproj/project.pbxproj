@@ -14,6 +14,7 @@
 		69F952681F7A24CC0007EAE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69F952661F7A24CC0007EAE6 /* LaunchScreen.storyboard */; };
 		69F952701F7A25310007EAE6 /* TestOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F9526F1F7A25310007EAE6 /* TestOne.swift */; };
 		69F952721F7B91F10007EAE6 /* TestTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F952711F7B91F10007EAE6 /* TestTwo.swift */; };
+		69F952741F7C86FF0007EAE6 /* TestThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F952731F7C86FF0007EAE6 /* TestThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		69F952691F7A24CC0007EAE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69F9526F1F7A25310007EAE6 /* TestOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestOne.swift; sourceTree = "<group>"; };
 		69F952711F7B91F10007EAE6 /* TestTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTwo.swift; sourceTree = "<group>"; };
+		69F952731F7C86FF0007EAE6 /* TestThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				69F9525F1F7A24CC0007EAE6 /* ViewController.swift */,
 				69F9526F1F7A25310007EAE6 /* TestOne.swift */,
 				69F952711F7B91F10007EAE6 /* TestTwo.swift */,
+				69F952731F7C86FF0007EAE6 /* TestThree.swift */,
 				69F952611F7A24CC0007EAE6 /* Main.storyboard */,
 				69F952641F7A24CC0007EAE6 /* Assets.xcassets */,
 				69F952661F7A24CC0007EAE6 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				69F952601F7A24CC0007EAE6 /* ViewController.swift in Sources */,
 				69F9525E1F7A24CC0007EAE6 /* AppDelegate.swift in Sources */,
 				69F952721F7B91F10007EAE6 /* TestTwo.swift in Sources */,
+				69F952741F7C86FF0007EAE6 /* TestThree.swift in Sources */,
 				69F952701F7A25310007EAE6 /* TestOne.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

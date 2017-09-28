@@ -15,6 +15,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        
+        let testThree = TestThree()
+        print (testThree.findMedianSortedArraysBest([1,3], [2]));
+        
+        
+        
         let testone = TestOne()
         print (testone.twoSum([1,2,4,5,7,923,5,7,9,43,10], 11))
         

@@ -31,7 +31,7 @@ class TestTwo {
         var maxLegth:Int = 0;
         for (index,sss) in s.characters.enumerated() {
             if (dic[sss] != nil){
-                if(dic[sss]!>start){
+                if(dic[sss]! > start){
                     start = dic[sss]!
                 }
             }
