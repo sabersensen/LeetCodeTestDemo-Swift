@@ -16,6 +16,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         
+        let testFour = TestFour()
+        print(testFour.longestPalindrome("cbbd"));
+        
         let testThree = TestThree()
         print (testThree.findMedianSortedArraysBest([1,3], [2]));
         
